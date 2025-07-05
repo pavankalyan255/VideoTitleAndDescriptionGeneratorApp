@@ -21,15 +21,19 @@ Ideal for content creators, marketers, and educators to enhance their video cont
 VideoTitleAndDescriptionApp/
 
 ├── app.py                 # Main Streamlit app
+
 ├── requirements.txt       # Python dependencies
-├── .gitignore             # Git ignored files list
-├── .devcontainer/         # (Optional) VSCode Dev Container settings
-│   └── devcontainer.json
+
 ├── sample_outputs/
+
 │   ├── screenshot1.png
+
 │   ├── screenshot2.png
+
 │   ├── ...
+
 │   └── screenshot12.png   # Screenshots of app usage & output
+
 └── README.md              # Project documentation (this file)
 
 🚀 How to Run
