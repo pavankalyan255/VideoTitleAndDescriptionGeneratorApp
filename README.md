@@ -4,6 +4,10 @@ A Generative AI-powered web application built using Streamlit and FLAN-T5 model 
 
 Ideal for content creators, marketers, and educators to enhance their video content metadata efficiently.
 
+## 📎 Live Demo  
+
+🔗 https://videotitleanddescriptiongeneratorapp-tbq6pzfyyosfecjcydnduq.streamlit.app/
+
 📌 Features
 
 ✍️ Generates 5 creative video titles for the given topic.
